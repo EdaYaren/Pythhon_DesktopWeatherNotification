@@ -40,7 +40,7 @@ Bu uygulama, hava durumu verilerini almak ve bildirim olarak göstermek için a�
    - Bildirim, belirli bir süre (10 saniye) ekranda kalır ve kullanıcıya hava durumu bilgisini hızlıca iletir.
 
       ### Bildirim:
-   <img src="DesktopNotification.png" alt="DesktopNotification" width="600" height="400">
+   <img src="DesktopNotification.png" alt="DesktopNotification" width="300" height="100">
 
 5. **Döngü ile Güncelleme**:
    - Uygulama, belirlenen zaman diliminde (örneğin, her gün saat 17:06) hava durumu bildirimlerini alabilmek için sonsuz bir döngü içerisinde çalışır.
